@@ -1,4 +1,4 @@
 # Curso-GitHub
-Curso  github pildoras informaticasprofe juan diaz 
+git fechCurso  github pildoras informaticasprofe juan diaz 
 
 Aprendiendo a usa GITHUB
